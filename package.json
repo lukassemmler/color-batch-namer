@@ -1,0 +1,21 @@
+{
+  "name": "color-similarity-analyzer",
+  "version": "0.0.1",
+  "description": "Analyze the similarity between multiple colors",
+  "main": "index.js",
+  "dependencies": {
+    "color-diff": "^1.2.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "analyzer",
+    "deltaE",
+    "cie76"
+  ],
+  "author": "Lukas Semmler",
+  "license": "ISC"
+}

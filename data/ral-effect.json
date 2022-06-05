@@ -1,0 +1,3927 @@
+{
+  "source": "https://www.ral-farben.de/alle-ral-farben",
+  "colors": [
+    [
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-1",
+        "hex": "#E6E7E6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-1/9299"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-2",
+        "hex": "#DEDDD5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-2/9300"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-3",
+        "hex": "#C8C6BE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-3/9301"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-4",
+        "hex": "#C6C7C4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-4/9302"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-5",
+        "hex": "#C9CCC6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-5/9303"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-6",
+        "hex": "#C8C8C7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-6/9304"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "110-M",
+        "hex": "#A0A2A4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-110-m/9718"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-1",
+        "hex": "#EDEDEA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-1/9305"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-2",
+        "hex": "#F2F1EC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-2/9306"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-3",
+        "hex": "#F0EEE5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-3/9307"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-4",
+        "hex": "#E9E1D4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-4/9308"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-5",
+        "hex": "#E2D9C6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-5/9309"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-6",
+        "hex": "#EAE1CE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-6/9310"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "120-M",
+        "hex": "#8F8D87",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-120-m/9719"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-1",
+        "hex": "#F2EDBB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-1/9311"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-2",
+        "hex": "#F1EEC3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-2/9312"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-3",
+        "hex": "#F0EECD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-3/9313"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-4",
+        "hex": "#F8F0CF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-4/9314"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-5",
+        "hex": "#EDE4BC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-5/9315"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-6",
+        "hex": "#FBE5B0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-6/9316"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "130-M",
+        "hex": "#ABAB90",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-130-m/9720"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-1",
+        "hex": "#FAD3A9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-1/9317"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-2",
+        "hex": "#FEDAA6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-2/9318"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-3",
+        "hex": "#FEE3C1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-3/9319"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-4",
+        "hex": "#FDDFBE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-4/9320"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-5",
+        "hex": "#F8E4C8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-5/9321"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-6",
+        "hex": "#E5D2B6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-6/9322"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "140-M",
+        "hex": "#B09E7E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-140-m/9721"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-1",
+        "hex": "#F7EFE9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-1/9323"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-2",
+        "hex": "#F9EBE3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-2/9324"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-3",
+        "hex": "#EEE1D7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-3/9325"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-4",
+        "hex": "#FBE3D4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-4/9327"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-5",
+        "hex": "#FAE8DC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-5/9326"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-6",
+        "hex": "#F8DFD7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-6/9328"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "150-M",
+        "hex": "#AB978A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-150-m/9722"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-1",
+        "hex": "#E3E1EC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-1/9329"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-2",
+        "hex": "#E7E2E8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-2/9330"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-3",
+        "hex": "#EDE8E8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-3/9331"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-4",
+        "hex": "#EEE1E2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-4/9332"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-5",
+        "hex": "#EFE4E0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-5/9333"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-6",
+        "hex": "#ECE4E9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-6/9334"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "160-M",
+        "hex": "#ADA6B5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-160-m/9723"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-1",
+        "hex": "#C7C9D0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-1/9335"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-2",
+        "hex": "#A6ADBD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-2/9336"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-3",
+        "hex": "#BAC8DA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-3/9337"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-4",
+        "hex": "#CEDBEC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-4/9338"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-5",
+        "hex": "#C3C6D6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-5/9339"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-6",
+        "hex": "#C6C5D6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-6/9340"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "170-M",
+        "hex": "#A7A8B9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-170-m/9724"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-1",
+        "hex": "#AEBCC6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-1/9341"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-2",
+        "hex": "#B9CDDD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-2/9342"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-3",
+        "hex": "#C7DBEB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-3/9343"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-4",
+        "hex": "#C9E1EC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-4/9344"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-5",
+        "hex": "#C7DDE1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-5/9347"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-6",
+        "hex": "#DBE9EB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-6/9345"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "180-M",
+        "hex": "#96A4A9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-180-m/9725"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-1",
+        "hex": "#A5DADF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-1/9346"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-2",
+        "hex": "#B9E6F2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-2/9348"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-3",
+        "hex": "#C0DEE1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-3/9349"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-4",
+        "hex": "#BDDAD7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-4/9351"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-5",
+        "hex": "#D4E5E7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-5/9350"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-6",
+        "hex": "#A3C1BF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-6/9352"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "190-M",
+        "hex": "#92B4B2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-190-m/9726"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-1",
+        "hex": "#CFC6B2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-1/9353"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-2",
+        "hex": "#ECE7D2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-2/9354"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-3",
+        "hex": "#E3E4D9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-3/9355"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-4",
+        "hex": "#D6E6E3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-4/9356"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-5",
+        "hex": "#D8E8E0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-5/9357"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-6",
+        "hex": "#D8E9D6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-6/9358"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "210-M",
+        "hex": "#A5A99B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-210-m/9727"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-1",
+        "hex": "#66B872",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-1/9360"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-2",
+        "hex": "#339A51",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-2/9359"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-3",
+        "hex": "#006F3C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-3/9361"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-4",
+        "hex": "#088554",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-4/9362"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-5",
+        "hex": "#267E51",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-5/9363"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-6",
+        "hex": "#006A4D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-6/9364"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "220-M",
+        "hex": "#007F3E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-220-m/9728"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-1",
+        "hex": "#BBDB9A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-1/9365"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-2",
+        "hex": "#96C86C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-2/9366"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-3",
+        "hex": "#7DB344",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-3/9367"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-4",
+        "hex": "#5F973A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-4/9368"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-5",
+        "hex": "#396938",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-5/9370"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-6",
+        "hex": "#365C30",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-6/9369"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "230-M",
+        "hex": "#62A74E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-230-m/9729"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-1",
+        "hex": "#DCD691",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-1/9371"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-2",
+        "hex": "#AAAF66",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-2/9372"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-3",
+        "hex": "#939755",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-3/9373"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-4",
+        "hex": "#7E7E42",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-4/9375"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-5",
+        "hex": "#5D6D3C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-5/9374"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-6",
+        "hex": "#4F6D35",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-6/9377"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "240-M",
+        "hex": "#627439",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-240-m/9730"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-1",
+        "hex": "#EEE6A5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-1/9376"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-2",
+        "hex": "#E8DE6F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-2/9378"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-3",
+        "hex": "#BFB700",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-3/9379"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-4",
+        "hex": "#A4A541",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-4/9380"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-5",
+        "hex": "#919138",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-5/9381"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-6",
+        "hex": "#69652C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-6/9382"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "250-M",
+        "hex": "#AEA73B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-250-m/9731"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-1",
+        "hex": "#F3E9B4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-1/9383"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-2",
+        "hex": "#F1E483",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-2/9384"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-3",
+        "hex": "#F3D446",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-3/9386"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-4",
+        "hex": "#E8C01F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-4/9385"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-5",
+        "hex": "#DEB02D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-5/9387"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-6",
+        "hex": "#EFB416",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-6/9389"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "260-M",
+        "hex": "#B8944F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-260-m/9732"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-1",
+        "hex": "#FFDE83",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-1/9388"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-2",
+        "hex": "#FACC39",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-2/9298"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-3",
+        "hex": "#F4BD16",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-3/9390"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-4",
+        "hex": "#EBB100",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-4/9394"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-5",
+        "hex": "#F6B600",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-5/9391"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-6",
+        "hex": "#FEC43F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-6/9392"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "270-M",
+        "hex": "#CB9437",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-270-m/9733"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-1",
+        "hex": "#FDE193",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-1/9395"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-2",
+        "hex": "#F0D391",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-2/9393"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-3",
+        "hex": "#E1BE78",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-3/9396"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-4",
+        "hex": "#D6AE5F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-4/9397"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-5",
+        "hex": "#DCA140",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-5/9398"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-6",
+        "hex": "#D0973C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-6/9399"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "280-M",
+        "hex": "#B28740",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-280-m/9734"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-1",
+        "hex": "#D89B50",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-1/9400"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-2",
+        "hex": "#BF853B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-2/9401"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-3",
+        "hex": "#D8A960",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-3/9402"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-4",
+        "hex": "#CC921B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-4/9403"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-5",
+        "hex": "#E6B03E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-5/9404"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-6",
+        "hex": "#FCAB04",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-6/9405"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "290-M",
+        "hex": "#B87E32",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-290-m/9735"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-1",
+        "hex": "#F5D6B4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-1/9406"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-2",
+        "hex": "#EBC297",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-2/9407"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-3",
+        "hex": "#DFAB73",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-3/9408"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-4",
+        "hex": "#D09355",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-4/9409"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-5",
+        "hex": "#BA7C43",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-5/9411"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-6",
+        "hex": "#8E5B2D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-6/9410"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "310-M",
+        "hex": "#B87D4F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-310-m/9736"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-1",
+        "hex": "#D2A96C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-1/9412"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-2",
+        "hex": "#AE8151",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-2/9413"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-3",
+        "hex": "#B9864C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-3/9414"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-4",
+        "hex": "#A06735",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-4/9415"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-5",
+        "hex": "#7F4E2E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-5/9416"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-6",
+        "hex": "#6E4428",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-6/9417"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "320-M",
+        "hex": "#B9731E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-320-m/9737"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-1",
+        "hex": "#A86859",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-1/9418"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-2",
+        "hex": "#8E4B35",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-2/9419"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-3",
+        "hex": "#794E3E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-3/9420"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-4",
+        "hex": "#5C3B2D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-4/9421"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-5",
+        "hex": "#50312A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-5/9422"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-6",
+        "hex": "#46322E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-6/9423"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "330-M",
+        "hex": "#8B5943",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-330-m/9738"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-1",
+        "hex": "#BEA4A9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-1/9424"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-2",
+        "hex": "#A48C92",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-2/9425"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-3",
+        "hex": "#7F5452",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-3/9426"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-4",
+        "hex": "#683D40",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-4/9427"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-5",
+        "hex": "#4F2A2D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-5/9428"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-6",
+        "hex": "#4F2B31",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-6/9429"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "340-M",
+        "hex": "#53353B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-340-m/9739"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-1",
+        "hex": "#9D311F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-1/9430"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-2",
+        "hex": "#A73F32",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-2/9431"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-3",
+        "hex": "#A24733",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-3/9432"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-4",
+        "hex": "#813021",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-4/9433"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-5",
+        "hex": "#783122",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-5/9434"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-6",
+        "hex": "#66322B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-6/9435"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "350-M",
+        "hex": "#582F2A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-350-m/9740"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-1",
+        "hex": "#E07D29",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-1/9436"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-2",
+        "hex": "#D9751E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-2/9437"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-3",
+        "hex": "#C66217",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-3/9438"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-4",
+        "hex": "#B75629",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-4/9439"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-5",
+        "hex": "#9A4F2C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-5/9440"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-6",
+        "hex": "#915033",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-6/9441"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "360-M",
+        "hex": "#A45633",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-360-m/9741"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-1",
+        "hex": "#FFAE47",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-1/9442"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-2",
+        "hex": "#FF9B38",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-2/9443"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-3",
+        "hex": "#FF901D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-3/9444"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-4",
+        "hex": "#E68316",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-4/9445"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-5",
+        "hex": "#D4781F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-5/9446"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-6",
+        "hex": "#CD6C10",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-6/9447"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "370-M",
+        "hex": "#B47A3C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-370-m/9742"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-1",
+        "hex": "#FF9B29",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-1/9448"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-2",
+        "hex": "#FF9204",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-2/9449"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-3",
+        "hex": "#FA841A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-3/9450"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-4",
+        "hex": "#E27121",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-4/9451"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-5",
+        "hex": "#F2782F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-5/9452"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-6",
+        "hex": "#EA6A24",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-6/9453"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "380-M",
+        "hex": "#A7552A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-380-m/9743"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-1",
+        "hex": "#EB773F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-1/9454"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-2",
+        "hex": "#E36125",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-2/9455"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-3",
+        "hex": "#DE5411",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-3/9456"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-4",
+        "hex": "#D8511C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-4/9457"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-5",
+        "hex": "#D8480F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-5/9458"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-6",
+        "hex": "#CD5E2A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-6/9459"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "390-M",
+        "hex": "#BF633B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-390-m/9744"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-1",
+        "hex": "#ED8165",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-1/9460"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-2",
+        "hex": "#EA734F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-2/9461"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-3",
+        "hex": "#E46440",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-3/9462"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-4",
+        "hex": "#DC5D38",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-4/9463"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-5",
+        "hex": "#D25535",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-5/9464"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-6",
+        "hex": "#D05D42",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-6/9465"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "410-M",
+        "hex": "#AB4924",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-410-m/9745"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-1",
+        "hex": "#EDAE9A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-1/9466"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-2",
+        "hex": "#F29D86",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-2/9467"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-3",
+        "hex": "#E98A6C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-3/9468"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-4",
+        "hex": "#E46443",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-4/9469"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-5",
+        "hex": "#CC5738",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-5/9470"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-6",
+        "hex": "#BF502E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-6/9472"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "420-M",
+        "hex": "#9D4B32",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-420-m/9746"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-1",
+        "hex": "#F2C2B6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-1/9471"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-2",
+        "hex": "#EC998B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-2/9473"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-3",
+        "hex": "#E48074",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-3/9474"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-4",
+        "hex": "#DD5A4C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-4/9478"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-5",
+        "hex": "#D5433C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-5/9475"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-6",
+        "hex": "#BE3A24",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-6/9476"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "430-M",
+        "hex": "#A84C45",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-430-m/9747"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-1",
+        "hex": "#CA383C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-1/9477"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-2",
+        "hex": "#D34C49",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-2/9479"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-3",
+        "hex": "#BA3C3E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-3/9481"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-4",
+        "hex": "#9B2929",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-4/9480"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-5",
+        "hex": "#A63129",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-5/9482"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-6",
+        "hex": "#B93525",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-6/9484"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "440-M",
+        "hex": "#9B252C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-440-m/9749"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-1",
+        "hex": "#F4C7CA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-1/9483"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-2",
+        "hex": "#EDA5AA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-2/9485"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-3",
+        "hex": "#E07A81",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-3/9487"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-4",
+        "hex": "#C85862",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-4/9486"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-5",
+        "hex": "#B2312F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-5/9489"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-6",
+        "hex": "#BB201D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-6/9488"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "450-M",
+        "hex": "#A71616",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-450-m/9748"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-1",
+        "hex": "#EFA3A7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-1/9490"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-2",
+        "hex": "#E37F89",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-2/9492"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-3",
+        "hex": "#DF6368",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-3/9491"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-4",
+        "hex": "#D35254",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-4/9493"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-5",
+        "hex": "#A8373B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-5/9495"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-6",
+        "hex": "#8B1B28",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-6/9494"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "460-M",
+        "hex": "#AE363B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-460-m/9750"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-1",
+        "hex": "#F0B3C1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-1/9496"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-2",
+        "hex": "#E68B9D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-2/9497"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-3",
+        "hex": "#DE7383",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-3/9498"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-4",
+        "hex": "#CA4D67",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-4/9500"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-5",
+        "hex": "#AC2D4C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-5/9499"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-6",
+        "hex": "#9C223F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-6/9501"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "470-M",
+        "hex": "#B14F5D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-470-m/9751"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-1",
+        "hex": "#F5CAC9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-1/9502"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-2",
+        "hex": "#F5C0BE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-2/9503"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-3",
+        "hex": "#EEBABC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-3/9504"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-4",
+        "hex": "#EEA5B1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-4/9509"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-5",
+        "hex": "#E9909E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-5/9505"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-6",
+        "hex": "#DA6C82",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-6/9506"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "480-M",
+        "hex": "#A87579",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-480-m/9752"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-1",
+        "hex": "#F3CFD0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-1/9507"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-2",
+        "hex": "#F7CAC3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-2/9508"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-3",
+        "hex": "#E89A92",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-3/9510"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-4",
+        "hex": "#C37B77",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-4/9511"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-5",
+        "hex": "#BE7F8C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-5/9513"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-6",
+        "hex": "#D29EA8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-6/9512"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "490-M",
+        "hex": "#A77D88",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-490-m/9753"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-1",
+        "hex": "#ECC8DC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-1/9514"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-2",
+        "hex": "#E0A5CB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-2/9515"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-3",
+        "hex": "#D584B1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-3/9516"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-4",
+        "hex": "#C4638D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-4/9517"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-5",
+        "hex": "#BA4877",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-5/9518"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-6",
+        "hex": "#9A3B6A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-6/9519"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "510-M",
+        "hex": "#8C3D71",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-510-m/9754"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-1",
+        "hex": "#EFD2DF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-1/9521"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-2",
+        "hex": "#E8BAD2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-2/9520"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-3",
+        "hex": "#DCA5C0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-3/9522"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-4",
+        "hex": "#BA7293",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-4/9523"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-5",
+        "hex": "#A04E6F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-5/9524"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-6",
+        "hex": "#92526E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-6/9525"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "520-M",
+        "hex": "#9E588B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-520-m/9755"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-1",
+        "hex": "#98444D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-1/9526"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-2",
+        "hex": "#8F3F4E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-2/9527"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-3",
+        "hex": "#793644",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-3/9529"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-4",
+        "hex": "#7C2F4B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-4/9528"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-5",
+        "hex": "#66253D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-5/9530"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-6",
+        "hex": "#61294A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-6/9531"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "530-M",
+        "hex": "#5C2D3A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-530-m/9756"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-1",
+        "hex": "#D4C1D7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-1/9533"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-2",
+        "hex": "#BEA1C1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-2/9532"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-3",
+        "hex": "#805F83",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-3/9534"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-4",
+        "hex": "#966B98",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-4/9535"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-5",
+        "hex": "#81537A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-5/9537"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-6",
+        "hex": "#562C51",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-6/9536"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "540-M",
+        "hex": "#562F4E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-540-m/9757"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-1",
+        "hex": "#E0D1D9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-1/9539"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-2",
+        "hex": "#D0BBC9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-2/9538"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-3",
+        "hex": "#B292A8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-3/9540"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-4",
+        "hex": "#9C7488",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-4/9541"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-5",
+        "hex": "#8D6177",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-5/9542"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-6",
+        "hex": "#784C5E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-6/9543"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "550-M",
+        "hex": "#A78890",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-550-m/9758"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-1",
+        "hex": "#CCBCC7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-1/9544"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-2",
+        "hex": "#B09CAD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-2/9545"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-3",
+        "hex": "#8C6F80",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-3/9547"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-4",
+        "hex": "#775460",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-4/9546"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-5",
+        "hex": "#85727F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-5/9548"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-6",
+        "hex": "#7D6E7F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-6/9549"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "560-M",
+        "hex": "#A592A4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-560-m/9759"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-1",
+        "hex": "#D1CEE8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-1/9550"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-2",
+        "hex": "#C3BFE1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-2/9551"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-3",
+        "hex": "#ADADDD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-3/9552"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-4",
+        "hex": "#9B9ACF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-4/9553"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-5",
+        "hex": "#8078B3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-5/9555"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-6",
+        "hex": "#79689B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-6/9554"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "570-M",
+        "hex": "#6B589A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-570-m/9760"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-1",
+        "hex": "#C2CFE6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-1/9556"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-2",
+        "hex": "#BCC7E0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-2/9557"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-3",
+        "hex": "#A7B2D1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-3/9558"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-4",
+        "hex": "#69749A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-4/9560"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-5",
+        "hex": "#41506E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-5/9559"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-6",
+        "hex": "#243154",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-6/9562"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "580-M",
+        "hex": "#636C86",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-580-m/9761"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-1",
+        "hex": "#666D9B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-1/9561"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-2",
+        "hex": "#424276",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-2/9563"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-3",
+        "hex": "#2A366B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-3/9564"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-4",
+        "hex": "#272F5B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-4/9565"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-5",
+        "hex": "#142D58",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-5/9566"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-6",
+        "hex": "#093B7A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-6/9567"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "590-M",
+        "hex": "#293862",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-590-m/9762"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-1",
+        "hex": "#6E8FAB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-1/9568"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-2",
+        "hex": "#617A94",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-2/9569"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-3",
+        "hex": "#6D95B9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-3/9570"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-4",
+        "hex": "#89B2D8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-4/9571"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-5",
+        "hex": "#4777AE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-5/9572"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-6",
+        "hex": "#436999",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-6/9573"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "610-M",
+        "hex": "#7897B5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-610-m/9763"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-1",
+        "hex": "#34688A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-1/9574"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-2",
+        "hex": "#6092AC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-2/9575"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-3",
+        "hex": "#64818F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-3/9576"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-4",
+        "hex": "#3A5A6A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-4/9577"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-5",
+        "hex": "#14354B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-5/9578"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-6",
+        "hex": "#1E2D3F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-6/9579"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "620-M",
+        "hex": "#093246",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-620-m/9764"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-1",
+        "hex": "#51A3D3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-1/9580"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-2",
+        "hex": "#446B8E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-2/9581"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-3",
+        "hex": "#2E4E6F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-3/9582"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-4",
+        "hex": "#2D4A6E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-4/9583"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-5",
+        "hex": "#1F3454",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-5/9584"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-6",
+        "hex": "#193654",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-6/9585"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "630-M",
+        "hex": "#16304C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-630-m/9765"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-1",
+        "hex": "#49A0C5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-1/9586"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-2",
+        "hex": "#0087B5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-2/9587"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-3",
+        "hex": "#007BAE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-3/9588"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-4",
+        "hex": "#005C8C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-4/9589"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-5",
+        "hex": "#00548A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-5/9590"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-6",
+        "hex": "#004F7D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-6/9591"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "640-M",
+        "hex": "#004E87",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-640-m/9766"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-1",
+        "hex": "#64B5D6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-1/9592"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-2",
+        "hex": "#0077A0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-2/9593"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-3",
+        "hex": "#006C97",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-3/9594"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-4",
+        "hex": "#005577",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-4/9595"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-5",
+        "hex": "#1D5B78",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-5/9596"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-6",
+        "hex": "#0A4962",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-6/9597"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "650-M",
+        "hex": "#00719D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-650-m/9767"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-1",
+        "hex": "#0094B0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-1/9598"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-2",
+        "hex": "#0B8DA8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-2/9599"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-3",
+        "hex": "#51A5B8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-3/9600"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-4",
+        "hex": "#3FB8CF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-4/9601"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-5",
+        "hex": "#6CC3D4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-5/9602"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-6",
+        "hex": "#8AC8D5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-6/9603"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "660-M",
+        "hex": "#5597A9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-660-m/9768"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-1",
+        "hex": "#8AD3EA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-1/9604"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-2",
+        "hex": "#97DAEF",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-2/9605"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-3",
+        "hex": "#8FC5D6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-3/9606"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-4",
+        "hex": "#69BBD3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-4/9607"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-5",
+        "hex": "#5BB9D5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-5/9608"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-6",
+        "hex": "#4EC2E6",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-6/9609"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "670-M",
+        "hex": "#74A7B8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-670-m/9769"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-1",
+        "hex": "#72AABA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-1/9610"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-2",
+        "hex": "#338FA4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-2/9611"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-3",
+        "hex": "#177185",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-3/9612"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-4",
+        "hex": "#26768D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-4/9613"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-5",
+        "hex": "#006A85",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-5/9614"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-6",
+        "hex": "#005B74",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-6/9615"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "680-M",
+        "hex": "#0E455C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-680-m/9770"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-1",
+        "hex": "#3FBFCB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-1/9616"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-2",
+        "hex": "#00A2AD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-2/9617"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-3",
+        "hex": "#00838E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-3/9618"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-4",
+        "hex": "#006C7B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-4/9619"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-5",
+        "hex": "#00535F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-5/9620"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-6",
+        "hex": "#005160",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-6/9621"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "690-M",
+        "hex": "#006773",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-690-m/9771"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-1",
+        "hex": "#78D1CD",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-1/9622"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-2",
+        "hex": "#00AAA7",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-2/9623"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-3",
+        "hex": "#058A8B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-3/9624"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-4",
+        "hex": "#007476",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-4/9625"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-5",
+        "hex": "#005C60",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-5/9626"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-6",
+        "hex": "#0C4746",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-6/9627"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "710-M",
+        "hex": "#00686B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-710-m/9772"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-1",
+        "hex": "#C2E3DE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-1/9628"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-2",
+        "hex": "#A4E2DB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-2/9629"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-3",
+        "hex": "#86D3D4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-3/9630"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-4",
+        "hex": "#58BEC1",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-4/9631"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-5",
+        "hex": "#3393A0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-5/9632"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-6",
+        "hex": "#197C86",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-6/9633"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "720-M",
+        "hex": "#1A949A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-720-m/9773"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-1",
+        "hex": "#CBE7E2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-1/9634"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-2",
+        "hex": "#98D3D3",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-2/9635"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-3",
+        "hex": "#7DB8BA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-3/9636"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-4",
+        "hex": "#7BB9B4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-4/9637"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-5",
+        "hex": "#79ACAC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-5/9638"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-6",
+        "hex": "#46877F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-6/9639"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "730-M",
+        "hex": "#62A293",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-730-m/9774"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-1",
+        "hex": "#C5DCCE",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-1/9640"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-2",
+        "hex": "#B3D6C9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-2/9641"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-3",
+        "hex": "#95C3B2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-3/9642"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-4",
+        "hex": "#498574",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-4/9643"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-5",
+        "hex": "#006F5B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-5/9644"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-6",
+        "hex": "#005D4E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-6/9646"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "740-M",
+        "hex": "#3A6F5F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-740-m/9775"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-1",
+        "hex": "#BFD7C9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-1/9645"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-2",
+        "hex": "#8FB4A0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-2/9647"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-3",
+        "hex": "#3D7461",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-3/9648"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-4",
+        "hex": "#164234",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-4/9649"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-5",
+        "hex": "#335449",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-5/9650"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-6",
+        "hex": "#2E3C3B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-6/9651"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "750-M",
+        "hex": "#17372D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-750-m/9776"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-1",
+        "hex": "#D5E3CA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-1/9652"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-2",
+        "hex": "#B8CDAA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-2/9653"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-3",
+        "hex": "#B0BE9B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-3/9654"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-4",
+        "hex": "#8B9B7A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-4/9655"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-5",
+        "hex": "#6D7E5C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-5/9656"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-6",
+        "hex": "#4A6448",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-6/9657"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "760-M",
+        "hex": "#334B2E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-760-m/9777"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-1",
+        "hex": "#989D84",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-1/9658"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-2",
+        "hex": "#A9A88F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-2/9659"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-3",
+        "hex": "#7A755A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-3/9660"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-4",
+        "hex": "#817A66",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-4/9661"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-5",
+        "hex": "#B4AF9F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-5/9662"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-6",
+        "hex": "#7E8273",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-6/9663"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "770-M",
+        "hex": "#8D8864",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-770-m/9778"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-1",
+        "hex": "#E9DECC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-1/9664"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-2",
+        "hex": "#E7D6B9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-2/9665"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-3",
+        "hex": "#DDC49A",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-3/9666"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-4",
+        "hex": "#D1B186",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-4/9667"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-5",
+        "hex": "#A38E79",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-5/9668"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-6",
+        "hex": "#74695C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-6/9669"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "780-M",
+        "hex": "#B2A074",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-780-m/9779"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-1",
+        "hex": "#3E4849",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-1/9670"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-2",
+        "hex": "#3B4147",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-2/9671"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-3",
+        "hex": "#313538",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-3/9672"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-4",
+        "hex": "#302F32",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-4/9673"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-5",
+        "hex": "#212224",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-5/9674"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-6",
+        "hex": "#21232D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-6/9675"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "790-M",
+        "hex": "#221F1D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-790-m/9780"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-1",
+        "hex": "#979DA2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-1/9676"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-2",
+        "hex": "#8A9499",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-2/9677"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-3",
+        "hex": "#79888E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-3/9678"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-4",
+        "hex": "#5E6B73",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-4/9679"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-5",
+        "hex": "#51595D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-5/9680"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-6",
+        "hex": "#394146",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-6/9681"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "810-M",
+        "hex": "#404649",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-810-m/9781"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-1",
+        "hex": "#C5C8CA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-1/9682"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-2",
+        "hex": "#A9AEB2",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-2/9683"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-3",
+        "hex": "#8D9395",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-3/9684"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-4",
+        "hex": "#7D8589",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-4/9685"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-5",
+        "hex": "#50555C",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-5/9686"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-6",
+        "hex": "#444951",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-6/9687"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "820-M",
+        "hex": "#929191",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-820-m/9782"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-1",
+        "hex": "#BABCBA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-1/9688"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-2",
+        "hex": "#A4A7A5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-2/9689"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-3",
+        "hex": "#8D9291",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-3/9690"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-4",
+        "hex": "#6C706D",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-4/9691"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-5",
+        "hex": "#515554",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-5/9692"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-6",
+        "hex": "#575E60",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-6/9693"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "830-M",
+        "hex": "#82817F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-830-m/9783"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-1",
+        "hex": "#E7E3D8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-1/9694"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-2",
+        "hex": "#D7D5CC",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-2/9695"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-3",
+        "hex": "#B8B4A8",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-3/9696"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-4",
+        "hex": "#808077",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-4/9697"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-5",
+        "hex": "#5A5D54",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-5/9698"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-6",
+        "hex": "#474135",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-6/9699"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "840-M",
+        "hex": "#494440",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-840-m/9784"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-1",
+        "hex": "#C3C2B9",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-1/9700"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-2",
+        "hex": "#B1B1AA",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-2/9701"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-3",
+        "hex": "#A6A6A0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-3/9702"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-4",
+        "hex": "#918D85",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-4/9703"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-5",
+        "hex": "#6B6760",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-5/9704"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-6",
+        "hex": "#4C4B46",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-6/9705"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "850-M",
+        "hex": "#625E59",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-850-m/9785"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-1",
+        "hex": "#D8DADB",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-1/9706"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-2",
+        "hex": "#CFD2D5",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-2/9707"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-3",
+        "hex": "#C1C2C4",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-3/9708"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-4",
+        "hex": "#9A9A9B",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-4/9709"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-5",
+        "hex": "#7A7A79",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-5/9710"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-6",
+        "hex": "#5B5F5F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-6/9711"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "860-M",
+        "hex": "#A4A09F",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-860-m/9786"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-1",
+        "hex": "#D3D0D0",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-1/9712"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-2",
+        "hex": "#969392",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-2/9713"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-3",
+        "hex": "#636164",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-3/9714"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-4",
+        "hex": "#514D4E",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-4/9715"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-5",
+        "hex": "#4A4747",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-5/9716"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-6",
+        "hex": "#3D3737",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-6/9717"
+      },
+      {
+        "palette": "RAL EFFECT",
+        "number": "870-M",
+        "hex": "#4D4747",
+        "nameGerman": "",
+        "nameEnglish": "",
+        "link": "https://www.ral-farben.de/farbe/ral-effect/ral-870-m/9787"
+      }
+    ]
+  ]
+}

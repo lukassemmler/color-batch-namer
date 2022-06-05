@@ -1,0 +1,1733 @@
+{
+  "source": "https://www.ral-farben.de/alle-ral-farben",
+  "colors": [
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1000",
+      "hex": "#CDBA88",
+      "nameGerman": "Grünbeige",
+      "nameEnglish": "Green beige",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1000/9083"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1001",
+      "hex": "#D0B084",
+      "nameGerman": "Beige",
+      "nameEnglish": "Beige",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1001/9084"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1002",
+      "hex": "#D2AA6D",
+      "nameGerman": "Sandgelb",
+      "nameEnglish": "Sand yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1002/9085"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1003",
+      "hex": "#F9A900",
+      "nameGerman": "Signalgelb",
+      "nameEnglish": "Signal yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1003/9086"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1004",
+      "hex": "#E49E00",
+      "nameGerman": "Goldgelb",
+      "nameEnglish": "Golden yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1004/9087"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1005",
+      "hex": "#CB8F00",
+      "nameGerman": "Honiggelb",
+      "nameEnglish": "Honey yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1005/9088"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1006",
+      "hex": "#E19000",
+      "nameGerman": "Maisgelb",
+      "nameEnglish": "Maize yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1006/9089"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1007",
+      "hex": "#E88C00",
+      "nameGerman": "Narzissengelb",
+      "nameEnglish": "Daffodil yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1007/9090"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1011",
+      "hex": "#AF8050",
+      "nameGerman": "Braunbeige",
+      "nameEnglish": "Brown beige",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1011/9091"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1012",
+      "hex": "#DDAF28",
+      "nameGerman": "Zitronengelb",
+      "nameEnglish": "Lemon yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1012/9092"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1013",
+      "hex": "#E3D9C7",
+      "nameGerman": "Perlweiß",
+      "nameEnglish": "Oyster white",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1013/9093"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1014",
+      "hex": "#DDC49B",
+      "nameGerman": "Elfenbein",
+      "nameEnglish": "Ivory",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1014/9094"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1015",
+      "hex": "#E6D2B5",
+      "nameGerman": "Hellelfenbein",
+      "nameEnglish": "Light ivory",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1015/9095"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1016",
+      "hex": "#F1DD39",
+      "nameGerman": "Schwefelgelb",
+      "nameEnglish": "Sulfur yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1016/9096"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1017",
+      "hex": "#F6A951",
+      "nameGerman": "Safrangelb",
+      "nameEnglish": "Saffron yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1017/9097"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1018",
+      "hex": "#FACA31",
+      "nameGerman": "Zinkgelb",
+      "nameEnglish": "Zinc yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1018/9098"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1019",
+      "hex": "#A48F7A",
+      "nameGerman": "Graubeige",
+      "nameEnglish": "Grey beige",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1019/9099"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1020",
+      "hex": "#A08F65",
+      "nameGerman": "Olivgelb",
+      "nameEnglish": "Olive yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1020/9100"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1021",
+      "hex": "#F6B600",
+      "nameGerman": "Rapsgelb",
+      "nameEnglish": "Colza yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1021/9101"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1023",
+      "hex": "#F7B500",
+      "nameGerman": "Verkehrsgelb",
+      "nameEnglish": "Traffic yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1023/9102"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1024",
+      "hex": "#BA8F4C",
+      "nameGerman": "Ockergelb",
+      "nameEnglish": "Ochre yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1024/9103"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1026",
+      "hex": "#FFFF00",
+      "nameGerman": "Leuchtgelb",
+      "nameEnglish": "Luminous yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1026/9104"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1027",
+      "hex": "#A77F0F",
+      "nameGerman": "Currygelb",
+      "nameEnglish": "Curry",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1027/9105"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1028",
+      "hex": "#FF9C00",
+      "nameGerman": "Melonengelb",
+      "nameEnglish": "Melon yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1028/9106"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1032",
+      "hex": "#E2A300",
+      "nameGerman": "Ginstergelb",
+      "nameEnglish": "Broom yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1032/9107"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1033",
+      "hex": "#F99A1D",
+      "nameGerman": "Dahliengelb",
+      "nameEnglish": "Dahlia yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1033/9108"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1034",
+      "hex": "#EB9C52",
+      "nameGerman": "Pastellgelb",
+      "nameEnglish": "Pastel yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1034/9109"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1035",
+      "hex": "#8F8370",
+      "nameGerman": "Perlbeige",
+      "nameEnglish": "Pearl beige",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1035/9110"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1036",
+      "hex": "#806440",
+      "nameGerman": "Perlgold",
+      "nameEnglish": "Pearl gold",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1036/9111"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1037",
+      "hex": "#F09200",
+      "nameGerman": "Sonnengelb",
+      "nameEnglish": "Sun yellow",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-1037/9112"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2000",
+      "hex": "#DA6E00",
+      "nameGerman": "Gelborange",
+      "nameEnglish": "Yellow orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2000/9113"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2001",
+      "hex": "#BA481C",
+      "nameGerman": "Rotorange",
+      "nameEnglish": "Red orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2001/9114"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2002",
+      "hex": "#BF3922",
+      "nameGerman": "Blutorange",
+      "nameEnglish": "Vermilion",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2002/9115"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2003",
+      "hex": "#F67829",
+      "nameGerman": "Pastellorange",
+      "nameEnglish": "Pastel orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2003/9116"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2004",
+      "hex": "#E25304",
+      "nameGerman": "Reinorange",
+      "nameEnglish": "Pure orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2004/9117"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2005",
+      "hex": "#FF4D08",
+      "nameGerman": "Leuchtorange",
+      "nameEnglish": "Luminous orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2005/9118"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2007",
+      "hex": "#FFB200",
+      "nameGerman": "Leuchthellorange",
+      "nameEnglish": "Luminous bright orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2007/9119"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2008",
+      "hex": "#EC6B22",
+      "nameGerman": "Hellrotorange",
+      "nameEnglish": "Bright red orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2008/9120"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2009",
+      "hex": "#DE5308",
+      "nameGerman": "Verkehrsorange",
+      "nameEnglish": "Traffic orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2009/9121"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2010",
+      "hex": "#D05D29",
+      "nameGerman": "Signalorange",
+      "nameEnglish": "Signal orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2010/9122"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2011",
+      "hex": "#E26E0F",
+      "nameGerman": "Tieforange",
+      "nameEnglish": "Deep orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2011/9123"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2012",
+      "hex": "#D5654E",
+      "nameGerman": "Lachsorange",
+      "nameEnglish": "Salmon orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2012/9124"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2013",
+      "hex": "#923E25",
+      "nameGerman": "Perlorange",
+      "nameEnglish": "Pearl orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2013/9125"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2017",
+      "hex": "#FC5500",
+      "nameGerman": "RAL Orange",
+      "nameEnglish": "RAL orange",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-2017/9126"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3000",
+      "hex": "#A72920",
+      "nameGerman": "Feuerrot",
+      "nameEnglish": "Flame red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3000/9127"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3001",
+      "hex": "#9B2423",
+      "nameGerman": "Signalrot",
+      "nameEnglish": "Signal red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3001/9128"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3002",
+      "hex": "#9B2321",
+      "nameGerman": "Karminrot",
+      "nameEnglish": "Carmine red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3002/9129"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3003",
+      "hex": "#861A22",
+      "nameGerman": "Rubinrot",
+      "nameEnglish": "Ruby red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3003/9130"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3004",
+      "hex": "#6B1C23",
+      "nameGerman": "Purpurrot",
+      "nameEnglish": "Purple red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3004/9131"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3005",
+      "hex": "#59191F",
+      "nameGerman": "Weinrot",
+      "nameEnglish": "Wine red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3005/9132"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3007",
+      "hex": "#3E2022",
+      "nameGerman": "Schwarzrot",
+      "nameEnglish": "Black red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3007/9133"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3009",
+      "hex": "#6D342D",
+      "nameGerman": "Oxidrot",
+      "nameEnglish": "Oxide red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3009/9134"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3011",
+      "hex": "#782423",
+      "nameGerman": "Braunrot",
+      "nameEnglish": "Brown red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3011/9135"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3012",
+      "hex": "#C5856D",
+      "nameGerman": "Beigerot",
+      "nameEnglish": "Beige red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3012/9136"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3013",
+      "hex": "#972E25",
+      "nameGerman": "Tomatenrot",
+      "nameEnglish": "Tomato red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3013/9137"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3014",
+      "hex": "#CB7375",
+      "nameGerman": "Altrosa",
+      "nameEnglish": "Antique pink",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3014/9138"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3015",
+      "hex": "#D8A0A6",
+      "nameGerman": "Hellrosa",
+      "nameEnglish": "Light pink",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3015/9139"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3016",
+      "hex": "#A63D30",
+      "nameGerman": "Korallenrot",
+      "nameEnglish": "Coral red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3016/9140"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3017",
+      "hex": "#CA555D",
+      "nameGerman": "Rosé",
+      "nameEnglish": "Rose",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3017/9141"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3018",
+      "hex": "#C63F4A",
+      "nameGerman": "Erdbeerrot",
+      "nameEnglish": "Strawberry red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3018/9142"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3020",
+      "hex": "#BB1F11",
+      "nameGerman": "Verkehrsrot",
+      "nameEnglish": "Traffic red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3020/9143"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3022",
+      "hex": "#CF6955",
+      "nameGerman": "Lachsrot",
+      "nameEnglish": "Salmon pink",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3022/9144"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3024",
+      "hex": "#FF2D21",
+      "nameGerman": "Leuchtrot",
+      "nameEnglish": "Luminous red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3024/9145"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3026",
+      "hex": "#FF2A1C",
+      "nameGerman": "Leuchthellrot",
+      "nameEnglish": "Luminous bright red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3026/9146"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3027",
+      "hex": "#AB273C",
+      "nameGerman": "Himbeerrot",
+      "nameEnglish": "Raspberry red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3027/9147"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3028",
+      "hex": "#CC2C24",
+      "nameGerman": "Reinrot",
+      "nameEnglish": "Pure red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3028/9148"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3031",
+      "hex": "#A63437",
+      "nameGerman": "Orientrot",
+      "nameEnglish": "Orient red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3031/9149"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3032",
+      "hex": "#701D24",
+      "nameGerman": "Perlrubinrot",
+      "nameEnglish": "Pearl ruby red",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3032/9150"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3033",
+      "hex": "#A53A2E",
+      "nameGerman": "Perlrosa",
+      "nameEnglish": "Pearl pink",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-3033/9151"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4001",
+      "hex": "#816183",
+      "nameGerman": "Rotlila",
+      "nameEnglish": "Red lilac",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4001/9152"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4002",
+      "hex": "#8D3C4B",
+      "nameGerman": "Rotviolett",
+      "nameEnglish": "Red violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4002/9153"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4003",
+      "hex": "#C4618C",
+      "nameGerman": "Erikaviolett",
+      "nameEnglish": "Heather violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4003/9154"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4004",
+      "hex": "#651E38",
+      "nameGerman": "Bordeauxviolett",
+      "nameEnglish": "Claret violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4004/9155"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4005",
+      "hex": "#76689A",
+      "nameGerman": "Blaulila",
+      "nameEnglish": "Blue lilac",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4005/9156"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4006",
+      "hex": "#903373",
+      "nameGerman": "Verkehrspurpur",
+      "nameEnglish": "Traffic purple",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4006/9157"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4007",
+      "hex": "#47243C",
+      "nameGerman": "Purpurviolett",
+      "nameEnglish": "Purple violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4007/9158"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4008",
+      "hex": "#844C82",
+      "nameGerman": "Signalviolett",
+      "nameEnglish": "Signal violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4008/9159"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4009",
+      "hex": "#9D8692",
+      "nameGerman": "Pastellviolett",
+      "nameEnglish": "Pastel violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4009/9160"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4010",
+      "hex": "#BB4077",
+      "nameGerman": "Telemagenta",
+      "nameEnglish": "Telemagenta",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4010/9161"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4011",
+      "hex": "#6E6387",
+      "nameGerman": "Perlviolett",
+      "nameEnglish": "Pearl violet",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4011/9162"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4012",
+      "hex": "#6A6B7F",
+      "nameGerman": "Perlbrombeer",
+      "nameEnglish": "Pearl blackberry",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-4012/9163"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5000",
+      "hex": "#304F6E",
+      "nameGerman": "Violettblau",
+      "nameEnglish": "Violet blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5000/9164"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5001",
+      "hex": "#0E4C64",
+      "nameGerman": "Grünblau",
+      "nameEnglish": "Green blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5001/9165"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5002",
+      "hex": "#00387A",
+      "nameGerman": "Ultramarinblau",
+      "nameEnglish": "Ultramarine blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5002/9166"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5003",
+      "hex": "#1F3855",
+      "nameGerman": "Saphirblau",
+      "nameEnglish": "Sapphire blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5003/9167"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5004",
+      "hex": "#191E28",
+      "nameGerman": "Schwarzblau",
+      "nameEnglish": "Black blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5004/9168"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5005",
+      "hex": "#005387",
+      "nameGerman": "Signalblau",
+      "nameEnglish": "Signal blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5005/9169"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5007",
+      "hex": "#376B8C",
+      "nameGerman": "Brillantblau",
+      "nameEnglish": "Brillant blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5007/9170"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5008",
+      "hex": "#2B3A44",
+      "nameGerman": "Graublau",
+      "nameEnglish": "Grey blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5008/9171"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5009",
+      "hex": "#215F78",
+      "nameGerman": "Azurblau",
+      "nameEnglish": "Azure blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5009/9172"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5010",
+      "hex": "#004F7C",
+      "nameGerman": "Enzianblau",
+      "nameEnglish": "Gentian blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5010/9173"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5011",
+      "hex": "#1A2B3C",
+      "nameGerman": "Stahlblau",
+      "nameEnglish": "Steel blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5011/9174"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5012",
+      "hex": "#0089B6",
+      "nameGerman": "Lichtblau",
+      "nameEnglish": "Light blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5012/9175"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5013",
+      "hex": "#193153",
+      "nameGerman": "Kobaltblau",
+      "nameEnglish": "Cobalt blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5013/9176"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5014",
+      "hex": "#637D96",
+      "nameGerman": "Taubenblau",
+      "nameEnglish": "Pigeon blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5014/9177"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5015",
+      "hex": "#007CAF",
+      "nameGerman": "Himmelblau",
+      "nameEnglish": "Sky blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5015/9178"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5017",
+      "hex": "#005B8C",
+      "nameGerman": "Verkehrsblau",
+      "nameEnglish": "Traffic blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5017/9179"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5018",
+      "hex": "#048B8C",
+      "nameGerman": "Türkisblau",
+      "nameEnglish": "Turquoise blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5018/9180"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5019",
+      "hex": "#005E83",
+      "nameGerman": "Capriblau",
+      "nameEnglish": "Capri blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5019/9181"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5020",
+      "hex": "#00414B",
+      "nameGerman": "Ozeanblau",
+      "nameEnglish": "Ocean blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5020/9182"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5021",
+      "hex": "#007577",
+      "nameGerman": "Wasserblau",
+      "nameEnglish": "Water blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5021/9183"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5022",
+      "hex": "#222D5A",
+      "nameGerman": "Nachtblau",
+      "nameEnglish": "Night blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5022/9184"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5023",
+      "hex": "#41698C",
+      "nameGerman": "Fernblau",
+      "nameEnglish": "Distant blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5023/9185"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5024",
+      "hex": "#6093AC",
+      "nameGerman": "Pastellblau",
+      "nameEnglish": "Pastel blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5024/9186"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5025",
+      "hex": "#20697C",
+      "nameGerman": "Perlenzian",
+      "nameEnglish": "Pearl gentian blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5025/9187"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5026",
+      "hex": "#0F3052",
+      "nameGerman": "Perlnachtblau",
+      "nameEnglish": "Pearl night blue",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-5026/9188"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6000",
+      "hex": "#3C7460",
+      "nameGerman": "Patinagrün",
+      "nameEnglish": "Patina green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6000/9189"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6001",
+      "hex": "#366735",
+      "nameGerman": "Smaragdgrün",
+      "nameEnglish": "Emerald green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6001/9190"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6002",
+      "hex": "#325928",
+      "nameGerman": "Laubgrün",
+      "nameEnglish": "Leaf green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6002/9191"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6003",
+      "hex": "#50533C",
+      "nameGerman": "Olivgrün",
+      "nameEnglish": "Olive green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6003/9192"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6004",
+      "hex": "#024442",
+      "nameGerman": "Blaugrün",
+      "nameEnglish": "Blue green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6004/9193"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6005",
+      "hex": "#114232",
+      "nameGerman": "Moosgrün",
+      "nameEnglish": "Moss green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6005/9194"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6006",
+      "hex": "#3C392E",
+      "nameGerman": "Grauoliv",
+      "nameEnglish": "Grey olive",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6006/9195"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6007",
+      "hex": "#2C3222",
+      "nameGerman": "Flaschengrün",
+      "nameEnglish": "Bottle green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6007/9196"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6008",
+      "hex": "#36342A",
+      "nameGerman": "Braungrün",
+      "nameEnglish": "Brown green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6008/9197"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6009",
+      "hex": "#27352A",
+      "nameGerman": "Tannengrün",
+      "nameEnglish": "Fir green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6009/9198"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6010",
+      "hex": "#4D6F39",
+      "nameGerman": "Grasgrün",
+      "nameEnglish": "Grass green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6010/9199"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6011",
+      "hex": "#6B7C59",
+      "nameGerman": "Resedagrün",
+      "nameEnglish": "Reseda green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6011/9200"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6012",
+      "hex": "#2F3D3A",
+      "nameGerman": "Schwarzgrün",
+      "nameEnglish": "Black green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6012/9201"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6013",
+      "hex": "#7C765A",
+      "nameGerman": "Schilfgrün",
+      "nameEnglish": "Reed green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6013/9202"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6014",
+      "hex": "#474135",
+      "nameGerman": "Gelboliv",
+      "nameEnglish": "Yellow olive",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6014/9203"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6015",
+      "hex": "#3D3D36",
+      "nameGerman": "Schwarzoliv",
+      "nameEnglish": "Black olive",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6015/9204"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6016",
+      "hex": "#00694C",
+      "nameGerman": "Türkisgrün",
+      "nameEnglish": "Turquoise green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6016/9205"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6017",
+      "hex": "#587F40",
+      "nameGerman": "Maigrün",
+      "nameEnglish": "May green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6017/9206"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6018",
+      "hex": "#60993B",
+      "nameGerman": "Gelbgrün",
+      "nameEnglish": "Yellow green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6018/9207"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6019",
+      "hex": "#B9CEAC",
+      "nameGerman": "Weißgrün",
+      "nameEnglish": "Pastel green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6019/9208"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6020",
+      "hex": "#37422F",
+      "nameGerman": "Chromoxidgrün",
+      "nameEnglish": "Chrome green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6020/9209"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6021",
+      "hex": "#8A9977",
+      "nameGerman": "Blaßgrün",
+      "nameEnglish": "Pale green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6021/9210"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6022",
+      "hex": "#3A3327",
+      "nameGerman": "Braunoliv",
+      "nameEnglish": "Olive drab",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6022/9211"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6024",
+      "hex": "#008351",
+      "nameGerman": "Verkehrsgrün",
+      "nameEnglish": "Traffic green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6024/9212"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6025",
+      "hex": "#5E6E3B",
+      "nameGerman": "Farngrün",
+      "nameEnglish": "Fern green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6025/9213"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6026",
+      "hex": "#005F4E",
+      "nameGerman": "Opalgrün",
+      "nameEnglish": "Opal green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6026/9214"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6027",
+      "hex": "#7EBAB5",
+      "nameGerman": "Lichtgrün",
+      "nameEnglish": "Light green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6027/9215"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6028",
+      "hex": "#315442",
+      "nameGerman": "Kieferngrün",
+      "nameEnglish": "Pine green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6028/9216"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6029",
+      "hex": "#006F3D",
+      "nameGerman": "Minzgrün",
+      "nameEnglish": "Mint green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6029/9217"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6032",
+      "hex": "#237F52",
+      "nameGerman": "Signalgrün",
+      "nameEnglish": "Signal green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6032/9218"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6033",
+      "hex": "#45877F",
+      "nameGerman": "Minttürkis",
+      "nameEnglish": "Mint turquoise",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6033/9219"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6034",
+      "hex": "#7AADAC",
+      "nameGerman": "Pastelltürkis",
+      "nameEnglish": "Pastel turquoise",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6034/9220"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6035",
+      "hex": "#194D25",
+      "nameGerman": "Perlgrün",
+      "nameEnglish": "Pearl green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6035/9221"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6036",
+      "hex": "#04574B",
+      "nameGerman": "Perlopalgrün",
+      "nameEnglish": "Pearl opal green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6036/9222"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6037",
+      "hex": "#008B29",
+      "nameGerman": "Reingrün",
+      "nameEnglish": "Pure green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6037/9223"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6038",
+      "hex": "#00B51B",
+      "nameGerman": "Leuchtgrün",
+      "nameEnglish": "Luminous green ",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6038/9224"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6039",
+      "hex": "#B3C43E",
+      "nameGerman": "Fasergrün",
+      "nameEnglish": "Fibrous green",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-6039/9790"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7000",
+      "hex": "#7A888E",
+      "nameGerman": "Fehgrau",
+      "nameEnglish": "Squirrel grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7000/9225"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7001",
+      "hex": "#8C979C",
+      "nameGerman": "Silbergrau",
+      "nameEnglish": "Silver grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7001/9226"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7002",
+      "hex": "#817863",
+      "nameGerman": "Olivgrau",
+      "nameEnglish": "Olive grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7002/9227"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7003",
+      "hex": "#797669",
+      "nameGerman": "Moosgrau",
+      "nameEnglish": "Moss grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7003/9228"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7004",
+      "hex": "#9A9B9B",
+      "nameGerman": "Signalgrau",
+      "nameEnglish": "Signal grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7004/9229"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7005",
+      "hex": "#6B6E6B",
+      "nameGerman": "Mausgrau",
+      "nameEnglish": "Mouse grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7005/9230"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7006",
+      "hex": "#766A5E",
+      "nameGerman": "Beigegrau",
+      "nameEnglish": "Beige grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7006/9231"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7008",
+      "hex": "#745F3D",
+      "nameGerman": "Khakigrau",
+      "nameEnglish": "Khaki grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7008/9232"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7009",
+      "hex": "#5D6058",
+      "nameGerman": "Grüngrau",
+      "nameEnglish": "Green grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7009/9233"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7010",
+      "hex": "#585C56",
+      "nameGerman": "Zeltgrau",
+      "nameEnglish": "Tarpaulin grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7010/9234"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7011",
+      "hex": "#52595D",
+      "nameGerman": "Eisengrau",
+      "nameEnglish": "Iron grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7011/9235"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7012",
+      "hex": "#575D5E",
+      "nameGerman": "Basaltgrau",
+      "nameEnglish": "Basalt grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7012/9236"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7013",
+      "hex": "#575044",
+      "nameGerman": "Braungrau",
+      "nameEnglish": "Brown grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7013/9237"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7015",
+      "hex": "#4F5358",
+      "nameGerman": "Schiefergrau",
+      "nameEnglish": "Slate grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7015/9238"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7016",
+      "hex": "#383E42",
+      "nameGerman": "Anthrazitgrau",
+      "nameEnglish": "Anthracite grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7016/9239"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7021",
+      "hex": "#2F3234",
+      "nameGerman": "Schwarzgrau",
+      "nameEnglish": "Black grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7021/9240"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7022",
+      "hex": "#4C4A44",
+      "nameGerman": "Umbragrau",
+      "nameEnglish": "Umbra grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7022/9241"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7023",
+      "hex": "#808076",
+      "nameGerman": "Betongrau",
+      "nameEnglish": "Concrete grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7023/9242"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7024",
+      "hex": "#45494E",
+      "nameGerman": "Graphitgrau",
+      "nameEnglish": "Graphite grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7024/9243"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7026",
+      "hex": "#374345",
+      "nameGerman": "Granitgrau",
+      "nameEnglish": "Granite grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7026/9244"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7030",
+      "hex": "#928E85",
+      "nameGerman": "Steingrau",
+      "nameEnglish": "Stone grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7030/9245"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7031",
+      "hex": "#5B686D",
+      "nameGerman": "Blaugrau",
+      "nameEnglish": "Blue grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7031/9246"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7032",
+      "hex": "#B5B0A1",
+      "nameGerman": "Kieselgrau",
+      "nameEnglish": "Pebble grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7032/9247"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7033",
+      "hex": "#7F8274",
+      "nameGerman": "Zementgrau",
+      "nameEnglish": "Cement grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7033/9248"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7034",
+      "hex": "#92886F",
+      "nameGerman": "Gelbgrau",
+      "nameEnglish": "Yellow grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7034/9249"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7035",
+      "hex": "#C5C7C4",
+      "nameGerman": "Lichtgrau",
+      "nameEnglish": "Light grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7035/9250"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7036",
+      "hex": "#979392",
+      "nameGerman": "Platingrau",
+      "nameEnglish": "Platinum grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7036/9251"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7037",
+      "hex": "#7A7B7A",
+      "nameGerman": "Staubgrau",
+      "nameEnglish": "Dusty grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7037/9252"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7038",
+      "hex": "#B0B0A9",
+      "nameGerman": "Achatgrau",
+      "nameEnglish": "Agate grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7038/9253"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7039",
+      "hex": "#6B665E",
+      "nameGerman": "Quarzgrau",
+      "nameEnglish": "Quartz grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7039/9254"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7040",
+      "hex": "#989EA1",
+      "nameGerman": "Fenstergrau",
+      "nameEnglish": "Window grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7040/9255"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7042",
+      "hex": "#8E9291",
+      "nameGerman": "Verkehrsgrau A",
+      "nameEnglish": "Traffic grey A",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7042/9256"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7043",
+      "hex": "#4F5250",
+      "nameGerman": "Verkehrsgrau B",
+      "nameEnglish": "Traffic grey B",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7043/9257"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7044",
+      "hex": "#B7B3A8",
+      "nameGerman": "Seidengrau",
+      "nameEnglish": "Silk grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7044/9258"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7045",
+      "hex": "#8D9295",
+      "nameGerman": "Telegrau 1",
+      "nameEnglish": "Telegrey 1",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7045/9259"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7046",
+      "hex": "#7E868A",
+      "nameGerman": "Telegrau 2",
+      "nameEnglish": "Telegrey 2",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7046/9260"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7047",
+      "hex": "#C8C8C7",
+      "nameGerman": "Telegrau 4",
+      "nameEnglish": "Telegrey 4",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7047/9261"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7048",
+      "hex": "#817B73",
+      "nameGerman": "Perlmausgrau",
+      "nameEnglish": "Pearl mouse grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-7048/9262"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8000",
+      "hex": "#89693F",
+      "nameGerman": "Grünbraun",
+      "nameEnglish": "Green brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8000/9263"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8001",
+      "hex": "#9D622B",
+      "nameGerman": "Ockerbraun",
+      "nameEnglish": "Ochre brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8001/9264"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8002",
+      "hex": "#794D3E",
+      "nameGerman": "Signalbraun",
+      "nameEnglish": "Signal brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8002/9265"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8003",
+      "hex": "#7E4B27",
+      "nameGerman": "Lehmbraun",
+      "nameEnglish": "Clay brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8003/9266"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8004",
+      "hex": "#8D4931",
+      "nameGerman": "Kupferbraun",
+      "nameEnglish": "Copper brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8004/9267"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8007",
+      "hex": "#70462B",
+      "nameGerman": "Rehbraun",
+      "nameEnglish": "Fawn brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8007/9268"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8008",
+      "hex": "#724A25",
+      "nameGerman": "Olivbraun",
+      "nameEnglish": "Olive brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8008/9269"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8011",
+      "hex": "#5A3827",
+      "nameGerman": "Nußbraun",
+      "nameEnglish": "Nut brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8011/9270"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8012",
+      "hex": "#66332B",
+      "nameGerman": "Rotbraun",
+      "nameEnglish": "Red brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8012/9271"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8014",
+      "hex": "#4A3526",
+      "nameGerman": "Sepiabraun",
+      "nameEnglish": "Sepia brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8014/9272"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8015",
+      "hex": "#5E2F26",
+      "nameGerman": "Kastanienbraun",
+      "nameEnglish": "Chestnut brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8015/9273"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8016",
+      "hex": "#4C2B20",
+      "nameGerman": "Mahagonibraun",
+      "nameEnglish": "Mahogany brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8016/9274"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8017",
+      "hex": "#442F29",
+      "nameGerman": "Schokoladenbraun",
+      "nameEnglish": "Chocolate brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8017/9275"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8019",
+      "hex": "#3D3635",
+      "nameGerman": "Graubraun",
+      "nameEnglish": "Grey brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8019/9276"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8022",
+      "hex": "#1A1719",
+      "nameGerman": "Schwarzbraun",
+      "nameEnglish": "Black brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8022/9277"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8023",
+      "hex": "#A45729",
+      "nameGerman": "Orangebraun",
+      "nameEnglish": "Orange brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8023/9278"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8024",
+      "hex": "#795038",
+      "nameGerman": "Beigebraun",
+      "nameEnglish": "Beige brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8024/9279"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8025",
+      "hex": "#755847",
+      "nameGerman": "Blaßbraun",
+      "nameEnglish": "Pale brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8025/9280"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8028",
+      "hex": "#513A2A",
+      "nameGerman": "Terrabraun",
+      "nameEnglish": "Terra brown",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8028/9281"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8029",
+      "hex": "#7F4031",
+      "nameGerman": "Perlkupfer",
+      "nameEnglish": "Pearl copper",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-8029/9282"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9001",
+      "hex": "#E9E0D2",
+      "nameGerman": "Cremeweiß",
+      "nameEnglish": "Cream",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9001/9283"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9002",
+      "hex": "#D6D5CB",
+      "nameGerman": "Grauweiß",
+      "nameEnglish": "Grey white",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9002/9284"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9003",
+      "hex": "#ECECE7",
+      "nameGerman": "Signalweiß",
+      "nameEnglish": "Signal white",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9003/9285"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9004",
+      "hex": "#2B2B2C",
+      "nameGerman": "Signalschwarz",
+      "nameEnglish": "Signal black",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9004/9286"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9005",
+      "hex": "#0E0E10",
+      "nameGerman": "Tiefschwarz",
+      "nameEnglish": "Jet black",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9005/9287"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9006",
+      "hex": "#A1A1A0",
+      "nameGerman": "Weißaluminium",
+      "nameEnglish": "White aluminium",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9006/9288"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9007",
+      "hex": "#868581",
+      "nameGerman": "Graualuminium",
+      "nameEnglish": "Grey aluminium",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9007/9289"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9010",
+      "hex": "#F1EDE1",
+      "nameGerman": "Reinweiß",
+      "nameEnglish": "Pure white",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9010/9290"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9011",
+      "hex": "#27292B",
+      "nameGerman": "Graphitschwarz",
+      "nameEnglish": "Graphite black",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9011/9291"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9012",
+      "hex": "#F8F2E1",
+      "nameGerman": "Reinraumweiß",
+      "nameEnglish": "Cleanroom White",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9012/9292"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9016",
+      "hex": "#F1F1EA",
+      "nameGerman": "Verkehrsweiß",
+      "nameEnglish": "Traffic white",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9016/9293"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9017",
+      "hex": "#29292A",
+      "nameGerman": "Verkehrsschwarz",
+      "nameEnglish": "Traffic black",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9017/9294"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9018",
+      "hex": "#C8CBC4",
+      "nameGerman": "Papyrusweiß",
+      "nameEnglish": "Papyrus white",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9018/9295"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9022",
+      "hex": "#858583",
+      "nameGerman": "Perlhellgrau",
+      "nameEnglish": "Pearl light grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9022/9296"
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9023",
+      "hex": "#787B7A",
+      "nameGerman": "Perldunkelgrau",
+      "nameEnglish": "Pearl dark grey",
+      "link": "https://www.ral-farben.de/farbe/ral-classic/ral-9023/9297"
+    }
+  ]
+}

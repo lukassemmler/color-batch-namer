@@ -34,7 +34,7 @@ The follow master palettes are already built in:
 
 * During my working life as UX designer, I had to repeatedly find names for arbitrary color values.
 * Finding a unique, good name for a color is not so easy, so I wanted to base the name on some color standard.
-* I chose RAL because it's color system does have nice names and is a European standard.
+* I chose RAL because it's color system does have nice names and is an European standard.
 
 
 ## Other projects
@@ -56,3 +56,5 @@ The follow master palettes are already built in:
 ## Credits
 
 Lukas Semmler (c) 2022
+
+RAL color systems (c) RAL gGmbH

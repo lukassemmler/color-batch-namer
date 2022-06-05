@@ -1,0 +1,1637 @@
+{
+  "source": "https://www.rietsch-design.de/ral-farben-hex-farbtabelle-uebersicht.html",
+  "colors": [
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1000",
+      "hex": "#CCC58F",
+      "nameGerman": "Grünbeige",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1001",
+      "hex": "#D1BC8A",
+      "nameGerman": "Beige",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1002",
+      "hex": "#D2B773",
+      "nameGerman": "Sandgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1003",
+      "hex": "#F7BA0B",
+      "nameGerman": "Signalgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1004",
+      "hex": "#E2B007",
+      "nameGerman": "Goldgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1005",
+      "hex": "#C89F04",
+      "nameGerman": "Honiggelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1006",
+      "hex": "#E1A100",
+      "nameGerman": "Maisgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1007",
+      "hex": "#E79C00",
+      "nameGerman": "Narzissengelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1011",
+      "hex": "#AF8A54",
+      "nameGerman": "Braunbeige",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1012",
+      "hex": "#D9C022",
+      "nameGerman": "Zitronengelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1013",
+      "hex": "#E9E5CE",
+      "nameGerman": "Perlweiss",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1014",
+      "hex": "#DED09F",
+      "nameGerman": "Elfenbein",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1015",
+      "hex": "#EADEBD",
+      "nameGerman": "Hellelfenbein",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1016",
+      "hex": "#EAF044",
+      "nameGerman": "Schwefelgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1017",
+      "hex": "#F4B752",
+      "nameGerman": "Safrangelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1018",
+      "hex": "#F3E03B",
+      "nameGerman": "Zinkgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1019",
+      "hex": "#A4957D",
+      "nameGerman": "Graubeige",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1020",
+      "hex": "#9A9464",
+      "nameGerman": "Olivgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1021",
+      "hex": "#EEC900",
+      "nameGerman": "Rapsgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1023",
+      "hex": "#F0CA00",
+      "nameGerman": "Verkehrsgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1024",
+      "hex": "#B89C50",
+      "nameGerman": "Ockergelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1026",
+      "hex": "#F5FF00",
+      "nameGerman": "Leuchtgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1027",
+      "hex": "#A38C15",
+      "nameGerman": "Currygelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1028",
+      "hex": "#FFAB00",
+      "nameGerman": "Melonengelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1032",
+      "hex": "#DDB20F",
+      "nameGerman": "Ginstergelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1033",
+      "hex": "#FAAB21",
+      "nameGerman": "Dahliengelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1034",
+      "hex": "#EDAB56",
+      "nameGerman": "Pastellgelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1035",
+      "hex": "#A29985",
+      "nameGerman": "Perlbeige",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1036",
+      "hex": "#927549",
+      "nameGerman": "Perlgold",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "1037",
+      "hex": "#EEA205",
+      "nameGerman": "Sonnengelb",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2000",
+      "hex": "#DD7907",
+      "nameGerman": "Gelborange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2001",
+      "hex": "#BE4E24",
+      "nameGerman": "Rotorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2002",
+      "hex": "#C63927",
+      "nameGerman": "Blutorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2003",
+      "hex": "#FA842B",
+      "nameGerman": "Pastellorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2004",
+      "hex": "#E75B12",
+      "nameGerman": "Reinorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2005",
+      "hex": "#FF2300",
+      "nameGerman": "Leuchtorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2007",
+      "hex": "#FFA421",
+      "nameGerman": "Leuchthellorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2008",
+      "hex": "#F3752C",
+      "nameGerman": "Hellrotorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2009",
+      "hex": "#E15501",
+      "nameGerman": "Verkehrsorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2010",
+      "hex": "#D4652F",
+      "nameGerman": "Signalorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2011",
+      "hex": "#EC7C25",
+      "nameGerman": "Tieforange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2012",
+      "hex": "#DB6A50",
+      "nameGerman": "Lachsorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "2013",
+      "hex": "#954527",
+      "nameGerman": "Perlorange",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3000",
+      "hex": "#AB2524",
+      "nameGerman": "Feuerrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3001",
+      "hex": "#A02128",
+      "nameGerman": "Signalrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3002",
+      "hex": "#A1232B",
+      "nameGerman": "Karminrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3003",
+      "hex": "#8D1D2C",
+      "nameGerman": "Rubinrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3004",
+      "hex": "#701F29",
+      "nameGerman": "Purpurrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3005",
+      "hex": "#5E2028",
+      "nameGerman": "Weinrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3007",
+      "hex": "#402225",
+      "nameGerman": "Schwarzrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3009",
+      "hex": "#6D312B",
+      "nameGerman": "Oxidrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3011",
+      "hex": "#791F24",
+      "nameGerman": "Braunrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3012",
+      "hex": "#C68873",
+      "nameGerman": "Beigerot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3013",
+      "hex": "#992A28",
+      "nameGerman": "Tomatenrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3014",
+      "hex": "#CF7278",
+      "nameGerman": "Altrosa",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3015",
+      "hex": "#E3A0AC",
+      "nameGerman": "Hellrosa",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3016",
+      "hex": "#AB392D",
+      "nameGerman": "Korallenrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3017",
+      "hex": "#CC515E",
+      "nameGerman": "Rosa",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3018",
+      "hex": "#CA3F51",
+      "nameGerman": "Erdbeerrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3020",
+      "hex": "#BF111B",
+      "nameGerman": "Verkehrsrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3022",
+      "hex": "#D36B56",
+      "nameGerman": "Lachsrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3024",
+      "hex": "#FC0A1C",
+      "nameGerman": "Leuchtrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3026",
+      "hex": "#FF4C0F",
+      "nameGerman": "Leuchthellrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3027",
+      "hex": "#B01D42",
+      "nameGerman": "Himbeerrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3031",
+      "hex": "#A7323E",
+      "nameGerman": "Orientrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3032",
+      "hex": "#8A3342",
+      "nameGerman": "Perlrubinrot",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "3033",
+      "hex": "#C74C51",
+      "nameGerman": "Perlrosa",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4001",
+      "hex": "#865D86",
+      "nameGerman": "Rotlila",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4002",
+      "hex": "#8F3F51",
+      "nameGerman": "Rotviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4003",
+      "hex": "#CA5B91",
+      "nameGerman": "Erikaviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4004",
+      "hex": "#69193B",
+      "nameGerman": "Bordeauxviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4005",
+      "hex": "#7E63A1",
+      "nameGerman": "Blaulila",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4006",
+      "hex": "#912D76",
+      "nameGerman": "Verkehrspurpur",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4007",
+      "hex": "#48233E",
+      "nameGerman": "Purpurviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4008",
+      "hex": "#853D7D",
+      "nameGerman": "Signalviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4009",
+      "hex": "#9D8493",
+      "nameGerman": "Pastellviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4010",
+      "hex": "#C03F7D",
+      "nameGerman": "Telemagenta",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4011",
+      "hex": "#8B76AB",
+      "nameGerman": "Perlviolett",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "4012",
+      "hex": "#807C9F",
+      "nameGerman": "Perlbrombeer",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5000",
+      "hex": "#2F4A71",
+      "nameGerman": "Violettblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5001",
+      "hex": "#0E4666",
+      "nameGerman": "Grünblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5002",
+      "hex": "#162E7B",
+      "nameGerman": "Ultramarinblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5003",
+      "hex": "#193058",
+      "nameGerman": "Saphirblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5004",
+      "hex": "#1A1D2A",
+      "nameGerman": "Schwarzblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5005",
+      "hex": "#004389",
+      "nameGerman": "Signalblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5007",
+      "hex": "#38618C",
+      "nameGerman": "Brillantblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5008",
+      "hex": "#2D3944",
+      "nameGerman": "Graublau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5009",
+      "hex": "#245878",
+      "nameGerman": "Azurblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5010",
+      "hex": "#00427F",
+      "nameGerman": "Enzianblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5011",
+      "hex": "#1A2740",
+      "nameGerman": "Stahlblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5012",
+      "hex": "#2781BB",
+      "nameGerman": "Lichtblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5013",
+      "hex": "#202E53",
+      "nameGerman": "Kobaltblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5014",
+      "hex": "#667B9A",
+      "nameGerman": "Taubenblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5015",
+      "hex": "#0071B5",
+      "nameGerman": "Himmelblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5017",
+      "hex": "#004C91",
+      "nameGerman": "Verkehrsblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5018",
+      "hex": "#138992",
+      "nameGerman": "Türkisblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5019",
+      "hex": "#005688",
+      "nameGerman": "Capriblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5020",
+      "hex": "#2A5059",
+      "nameGerman": "Ozeanblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5021",
+      "hex": "#00747D",
+      "nameGerman": "Wasserblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5022",
+      "hex": "#28275A",
+      "nameGerman": "Nachtblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5023",
+      "hex": "#486591",
+      "nameGerman": "Fernblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5024",
+      "hex": "#6391B0",
+      "nameGerman": "Pastellblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5025",
+      "hex": "#346D8C",
+      "nameGerman": "Perlenzian",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "5026",
+      "hex": "#243F70",
+      "nameGerman": "Perlnachtblau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6000",
+      "hex": "#327663",
+      "nameGerman": "Patinagrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6001",
+      "hex": "#266D3B",
+      "nameGerman": "Smaragdgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6002",
+      "hex": "#276230",
+      "nameGerman": "Laubgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6003",
+      "hex": "#4E553D",
+      "nameGerman": "Olivgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6004",
+      "hex": "#004547",
+      "nameGerman": "Blaugrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6005",
+      "hex": "#0E4438",
+      "nameGerman": "Moosgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6006",
+      "hex": "#3B3D33",
+      "nameGerman": "Grauoliv",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6007",
+      "hex": "#2B3626",
+      "nameGerman": "Flaschengrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6008",
+      "hex": "#302F22",
+      "nameGerman": "Braungrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6009",
+      "hex": "#213529",
+      "nameGerman": "Tannengrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6010",
+      "hex": "#426E38",
+      "nameGerman": "Grasgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6011",
+      "hex": "#68825F",
+      "nameGerman": "Resedagrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6012",
+      "hex": "#293A37",
+      "nameGerman": "Schwarzgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6013",
+      "hex": "#76785B",
+      "nameGerman": "Schilfgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6014",
+      "hex": "#443F31",
+      "nameGerman": "Gelboliv",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6015",
+      "hex": "#383B34",
+      "nameGerman": "Schwarzoliv",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6016",
+      "hex": "#00664F",
+      "nameGerman": "Türkisgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6017",
+      "hex": "#4D8542",
+      "nameGerman": "Maigrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6018",
+      "hex": "#4B9B3E",
+      "nameGerman": "Gelbgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6019",
+      "hex": "#B2D8B4",
+      "nameGerman": "Weißgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6020",
+      "hex": "#394937",
+      "nameGerman": "Chromoxidgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6021",
+      "hex": "#87A180",
+      "nameGerman": "Blassgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6022",
+      "hex": "#3C372A",
+      "nameGerman": "Braunoliv",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6024",
+      "hex": "#008455",
+      "nameGerman": "Verkehrsgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6025",
+      "hex": "#56723D",
+      "nameGerman": "Farngrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6026",
+      "hex": "#005C54",
+      "nameGerman": "Opalgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6027",
+      "hex": "#7DCCBD",
+      "nameGerman": "Lichtgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6028",
+      "hex": "#2E554B",
+      "nameGerman": "Kieferngrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6029",
+      "hex": "#006F43",
+      "nameGerman": "Minzgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6032",
+      "hex": "#00855A",
+      "nameGerman": "Signalgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6034",
+      "hex": "#75ADB1",
+      "nameGerman": "Pastelltürkis",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6035",
+      "hex": "#226442",
+      "nameGerman": "Perlgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "6036",
+      "hex": "#14706C",
+      "nameGerman": "Perlopalgrün",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7000",
+      "hex": "#798790",
+      "nameGerman": "Fehgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7001",
+      "hex": "#8C969F",
+      "nameGerman": "Silbergrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7002",
+      "hex": "#827D67",
+      "nameGerman": "Olivgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7003",
+      "hex": "#79796C",
+      "nameGerman": "Moosgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7004",
+      "hex": "#999A9F",
+      "nameGerman": "Signalgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7005",
+      "hex": "#6D7270",
+      "nameGerman": "Mausgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7006",
+      "hex": "#766A5D",
+      "nameGerman": "Beigegrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7008",
+      "hex": "#756444",
+      "nameGerman": "Khakigrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7009",
+      "hex": "#585E55",
+      "nameGerman": "Grüngrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7010",
+      "hex": "#565957",
+      "nameGerman": "Zeltgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7011",
+      "hex": "#525A60",
+      "nameGerman": "Eisengrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7012",
+      "hex": "#575E62",
+      "nameGerman": "Basaltgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7013",
+      "hex": "#585346",
+      "nameGerman": "Braungrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7015",
+      "hex": "#4C5057",
+      "nameGerman": "Schiefergrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7016",
+      "hex": "#363D43",
+      "nameGerman": "Anthrazitgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7021",
+      "hex": "#2E3236",
+      "nameGerman": "Schwarzgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7022",
+      "hex": "#464644",
+      "nameGerman": "Umbragrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7023",
+      "hex": "#7F8279",
+      "nameGerman": "Betongrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7024",
+      "hex": "#484B52",
+      "nameGerman": "Graphitgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7026",
+      "hex": "#354044",
+      "nameGerman": "Granitgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7030",
+      "hex": "#919089",
+      "nameGerman": "Steingrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7031",
+      "hex": "#5B686F",
+      "nameGerman": "Blaugrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7032",
+      "hex": "#B5B5A7",
+      "nameGerman": "Kieselgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7033",
+      "hex": "#7A8376",
+      "nameGerman": "Zementgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7034",
+      "hex": "#928D75",
+      "nameGerman": "Gelbgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7035",
+      "hex": "#C4CACA",
+      "nameGerman": "Lichtgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7036",
+      "hex": "#949294",
+      "nameGerman": "Platingrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7037",
+      "hex": "#7E8082",
+      "nameGerman": "Staubgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7038",
+      "hex": "#B0B3AF",
+      "nameGerman": "Achatgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7039",
+      "hex": "#6D6B64",
+      "nameGerman": "Quarzgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7040",
+      "hex": "#9AA0A7",
+      "nameGerman": "Fenstergrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7042",
+      "hex": "#929899",
+      "nameGerman": "Verkehrsgrau A",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7043",
+      "hex": "#505455",
+      "nameGerman": "Verkehrsgrau B",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7044",
+      "hex": "#BAB9B0",
+      "nameGerman": "Seidengrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7045",
+      "hex": "#92989B",
+      "nameGerman": "Telegrau 1",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7046",
+      "hex": "#838B8F",
+      "nameGerman": "Telegrau 2",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7047",
+      "hex": "#C9CAC9",
+      "nameGerman": "Telegrau 4",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "7048",
+      "hex": "#969590",
+      "nameGerman": "Perlmausgrau",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8000",
+      "hex": "#8B7045",
+      "nameGerman": "Grünbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8001",
+      "hex": "#9C6935",
+      "nameGerman": "Ockerbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8002",
+      "hex": "#774C3B",
+      "nameGerman": "Signalbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8003",
+      "hex": "#815333",
+      "nameGerman": "Lehmbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8004",
+      "hex": "#904E3B",
+      "nameGerman": "Kupferbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8007",
+      "hex": "#6B442A",
+      "nameGerman": "Rehbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8008",
+      "hex": "#735230",
+      "nameGerman": "Olivbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8011",
+      "hex": "#5B3927",
+      "nameGerman": "Nussbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8012",
+      "hex": "#64312A",
+      "nameGerman": "Rotbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8014",
+      "hex": "#49372A",
+      "nameGerman": "Sepiabraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8015",
+      "hex": "#5A2E2A",
+      "nameGerman": "Kastanienbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8016",
+      "hex": "#4F3128",
+      "nameGerman": "Mahagonibraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8017",
+      "hex": "#45302B",
+      "nameGerman": "Schokoladenbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8019",
+      "hex": "#3B3332",
+      "nameGerman": "Graubraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8022",
+      "hex": "#1E1A1A",
+      "nameGerman": "Schwarzbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8023",
+      "hex": "#A45C32",
+      "nameGerman": "Orangebraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8024",
+      "hex": "#7B5741",
+      "nameGerman": "Beigebraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8025",
+      "hex": "#765D4D",
+      "nameGerman": "Blassbraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8028",
+      "hex": "#4F3B2B",
+      "nameGerman": "Terrabraun",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "8029",
+      "hex": "#8C4C41",
+      "nameGerman": "Perlkupfer",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9001",
+      "hex": "#EEE9DA",
+      "nameGerman": "Cremeweiß",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9002",
+      "hex": "#DADBD5",
+      "nameGerman": "Grauweiß",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9003",
+      "hex": "#F8F9FB",
+      "nameGerman": "Signalweiß",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9004",
+      "hex": "#252427",
+      "nameGerman": "Signalschwarz",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9005",
+      "hex": "#151619",
+      "nameGerman": "Tiefschwarz",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9006",
+      "hex": "#A3A8AC",
+      "nameGerman": "Weißaluminium",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9007",
+      "hex": "#8F9190",
+      "nameGerman": "Graualuminium",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9010",
+      "hex": "#F4F4ED",
+      "nameGerman": "Reinweiß",
+      "nameEnglish": "",
+      "link": ""
+    },
+    {
+      "palette": "RAL CLASSIC",
+      "number": "9011",
+      "hex": "#1F2126",
+      "nameGerman": "Graphitschwarz",
+      "nameEnglish": "",
+      "link": ""
+    }
+  ]
+}

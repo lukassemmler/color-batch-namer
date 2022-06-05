@@ -1,7 +1,7 @@
 {
-  "name": "color-similarity-analyzer",
+  "name": "color-batch-namer",
   "version": "0.0.1",
-  "description": "Analyze the similarity between multiple colors",
+  "description": "Get the closest names for a list of colors based on a color standard",
   "main": "index.js",
   "dependencies": {
     "color-diff": "^1.2.0"
@@ -11,9 +11,13 @@
   },
   "keywords": [
     "color",
+    "batch",
+    "namer",
+    "similarity",
     "analyzer",
     "deltaE",
-    "cie76"
+    "cie76",
+    "RAL"
   ],
   "author": "Lukas Semmler",
   "license": "ISC"

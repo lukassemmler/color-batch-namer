@@ -1,4 +1,4 @@
-# Color Similarity Analyzer
+# Color Batch Namer
 
 * Command line tool (CLI) to help with naming a set of colors, comparing to a provided master palette.
 * By default, this is the *RAL CLASSIC* palette, but you can add any arbitrary color palette (like PANTONE).

@@ -1,6 +1,6 @@
 {
   "source": "Example palette",
-  "palette": [
+  "colors": [
     { "hex": "#000000", "name": "Schwarz" },
     { "hex": "#1F3753", "name": "Pfau" },
     { "hex": "#556174", "name": "Taube" },
